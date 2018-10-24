@@ -1,0 +1,28 @@
+body {
+    font-family: Helvetica, Arial;
+    margin: 20px;
+    background-color: purple;
+    color: yellow;
+}
+
+/* Class Selectors */
+
+.content {
+    background-color: #f2f2f2;
+    border: 1px solid #505050;
+    color: #505050;
+    padding: 10px;
+    width: 600px;
+}
+
+/* ID Selectors */
+
+#special {
+    border: 1px solid black;
+    font-size: 20px;
+    line-height: 2;
+    max-height: 100px;
+    overflow: auto;
+    padding: 10px;
+    width: 300px;
+}
