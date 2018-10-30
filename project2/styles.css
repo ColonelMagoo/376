@@ -15,6 +15,15 @@ body {
     width: 600px;
 }
 
+.button {
+    background-color: #006699;
+    display: inline-block;
+    margin-left: 10px;
+    padding: 5px 10px 5px 10px;
+    text-align: center;
+    width: 150px;
+}
+
 /* ID Selectors */
 
 #special {
