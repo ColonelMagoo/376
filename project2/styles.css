@@ -4,7 +4,7 @@ body {
     background-color: purple;
     color: yellow;
 }
-
+p
 /* Class Selectors */
 
 .content {
@@ -15,23 +15,23 @@ body {
     width: 600px;
 }
 
-.button {
-    background-color: #006699;
+.smash {
+    
+    background-color: black;
+    border: 1px solid yellow:
+    color: purple;
+    width: 400px;    
+}
+
+.button{
+    background-color: yellow;
     display: inline-block;
     margin-left: 10px;
-    padding: 5px 10px 5px 10px;
+    padding: 5px 5px 5px 5px;
     text-align: center;
     width: 150px;
 }
 
 /* ID Selectors */
 
-#special {
-    border: 1px solid black;
-    font-size: 20px;
-    line-height: 2;
-    max-height: 100px;
-    overflow: auto;
-    padding: 10px;
-    width: 300px;
-}
+
